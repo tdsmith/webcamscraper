@@ -1,0 +1,1024 @@
+[[cameras]]
+url = "https://images.drivebc.ca/bchighwaycam/pub/cameras/19.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM014/19_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://images.drivebc.ca/bchighwaycam/pub/cameras/17.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM015/17_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://images.drivebc.ca/bchighwaycam/pub/cameras/18.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM016/18_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/MainNorth_Terminal_Dome.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM028/MainNorth_Terminal_Dome_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/TerminalEast_Main.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM028/TerminalEast_Main_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/MainSouth_Terminal.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM028/MainSouth_Terminal_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/TerminalWest_Main.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM028/TerminalWest_Main_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleNorth_Dunsmuir.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM030/GranvilleNorth_Dunsmuir_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/DunsmuirEast_Granville.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM030/DunsmuirEast_Granville_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleSouth_Dunsmuir.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM030/GranvilleSouth_Dunsmuir_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/DunsmuirWest_Granville.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM030/DunsmuirWest_Granville_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbyNorth_Robson.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM048/HornbyNorth_Robson_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RobsonEast_Hornby.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM048/RobsonEast_Hornby_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbySouth_Robson.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM048/HornbySouth_Robson_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RobsonWest_Hornby.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM048/RobsonWest_Hornby_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/ButeNorthDavie.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM060/ButeNorthDavie_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/DavieEastBute.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM060/DavieEastBute_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/ButeSouthDavie.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM060/ButeSouthDavie_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/DavieWestBute.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM060/DavieWestBute_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/ThurlowPacificN_North.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM064/ThurlowPacificN_North_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/ThurlowPacificE_East.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM064/ThurlowPacificE_East_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/ThurlowPacificN_South.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM064/ThurlowPacificN_South_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/ThurlowPacificE_West.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM064/ThurlowPacificE_West_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BeattyNorthSmithe.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM076/BeattyNorthSmithe_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SmitheEastBeatty.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM076/SmitheEastBeatty_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BeattySouthSmithe.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM076/BeattySouthSmithe_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SmitheWestBeatty.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM076/SmitheWestBeatty_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HowePacificNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM109/HowePacificNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HowePacificEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM109/HowePacificEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HowePacificSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM109/HowePacificSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HowePacificWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM109/HowePacificWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsHastingsNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM131/RichardsHastingsNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsHastingsEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM131/RichardsHastingsEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsHastingsSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM131/RichardsHastingsSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsHastingsWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM131/RichardsHastingsWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourDunsmuirNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM138/SeymourDunsmuirNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourDunsmuirEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM138/SeymourDunsmuirEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourDunsmuirSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM138/SeymourDunsmuirSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourDunsmuirWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM138/SeymourDunsmuirWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbyNelsonNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM143/HornbyNelsonNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbyNelsonEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM143/HornbyNelsonEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbyNelsonSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM143/HornbyNelsonSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbyNelsonWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM143/HornbyNelsonWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/DenmanBeachEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM167/DenmanBeachEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/DenmanBeachWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM167/DenmanBeachWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HoweDrakeNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM171/HoweDrakeNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HoweDrakeEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM171/HoweDrakeEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HoweDrakeSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM171/HoweDrakeSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HoweDrakeWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM171/HoweDrakeWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsHelmckenNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM174/RichardsHelmckenNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsHelmckenEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM174/RichardsHelmckenEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsHelmckenSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM174/RichardsHelmckenSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsHelmckenWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM174/RichardsHelmckenWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsSmitheNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM179/RichardsSmitheNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsSmitheEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM179/RichardsSmitheEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsSmitheSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM179/RichardsSmitheSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsSmitheWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM179/RichardsSmitheWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsPacificNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM180/RichardsPacificNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsPacificEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM180/RichardsPacificEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsPacificSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM180/RichardsPacificSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsPacificWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM180/RichardsPacificWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourGeorgiaNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM186/SeymourGeorgiaNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourGeorgiaEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM186/SeymourGeorgiaEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourGeorgiaSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM186/SeymourGeorgiaSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourGeorgiaWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM186/SeymourGeorgiaWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardNelsonNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM190/BurrardNelsonNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardNelsonEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM190/BurrardNelsonEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardNelsonSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM190/BurrardNelsonSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardNelsonWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM190/BurrardNelsonWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/georgiaE.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM003/georgiaE_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/georgiaW.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM003/georgiaW_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/PenderEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM003/PenderEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HoweNorthGeorgia.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM049/HoweNorthGeorgia_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GeorgiaEastHowe.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM049/GeorgiaEastHowe_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HoweSouthGeorgia.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM049/HoweSouthGeorgia_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GeorgiaWestHowe.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM049/GeorgiaWestHowe_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardDrakeNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM096/BurrardDrakeNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardDrakeEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM096/BurrardDrakeEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardDrakeSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM096/BurrardDrakeSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardDrakeWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM096/BurrardDrakeWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleSmitheNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM151/GranvilleSmitheNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleSmitheEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM151/GranvilleSmitheEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleSmitheSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM151/GranvilleSmitheSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleSmitheWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM151/GranvilleSmitheWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourRobsonNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM176/SeymourRobsonNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourRobsonEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM176/SeymourRobsonEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourRobsonSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM176/SeymourRobsonSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourRobsonWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM176/SeymourRobsonWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/DenmanDavieNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM182/DenmanDavieNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/DenmanDavieEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM182/DenmanDavieEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/DenmanDavieSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM182/DenmanDavieSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/DenmanDavieWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM182/DenmanDavieWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbyDrakeNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM185/HornbyDrakeNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbyDrakeEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM185/HornbyDrakeEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbyDrakeSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM185/HornbyDrakeSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbyDrakeWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM185/HornbyDrakeWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM031/BurrardCanadaNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM031/BurrardCanadaEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM031/BurrardCanadaSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM031/BurrardCanadaWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbyNorth_Georgia.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM043/HornbyNorth_Georgia_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GeorgiaEast_Hornby.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM043/GeorgiaEast_Hornby_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbySouth_Georgia.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM043/HornbySouth_Georgia_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GeorgiaWest_Hornby.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM043/GeorgiaWest_Hornby_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleNorth_Robson.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM050/GranvilleNorth_Robson_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RobsonEast_Granville.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM050/RobsonEast_Granville_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleSouth_Robson.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM050/GranvilleSouth_Robson_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RobsonWest_Granville.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM050/RobsonWest_Granville_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsPenderNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM136/RichardsPenderNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsPenderEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM136/RichardsPenderEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsPenderSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM136/RichardsPenderSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsPenderWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM136/RichardsPenderWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDavieNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM173/RichardsDavieNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDavieEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM173/RichardsDavieEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDavieSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM173/RichardsDavieSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDavieWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM173/RichardsDavieWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsGeorgiaNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM178/RichardsGeorgiaNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsGeorgiaEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM178/RichardsGeorgiaEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsGeorgiaSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM178/RichardsGeorgiaSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsGeorgiaWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM178/RichardsGeorgiaWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbySmitheNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM184/HornbySmitheNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbySmitheEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM184/HornbySmitheEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbySmitheSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM184/HornbySmitheSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbySmitheWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM184/HornbySmitheWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GeorgiaDenmanEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM002/GeorgiaDenmanEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GeorgiaDenmanWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM002/GeorgiaDenmanWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/DenmanGeorgiaSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM002/DenmanGeorgiaSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardPacificNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM012/BurrardPacificNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardPacificEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM012/BurrardPacificEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardBridgeSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM012/BurrardBridgeSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardPacificWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM012/BurrardPacificWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://images.drivebc.ca/bchighwaycam/pub/cameras/20.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM017/20_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/Expoblvdnorth_smithe.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM018/Expoblvdnorth_smithe_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SmitheEast_ExpoBlvd.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM018/SmitheEast_ExpoBlvd_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/Expoblvdsouth_smithe.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM018/Expoblvdsouth_smithe_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SmitheWest_ExpoBlvd.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM018/SmitheWest_ExpoBlvd_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/Cambienorth_nelson.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM019/Cambienorth_nelson_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/Nelsoneast_cambie.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM019/Nelsoneast_cambie_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/Cambiesouth_nelson.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM019/Cambiesouth_nelson_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/Nelsonwest_cambie.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM019/Nelsonwest_cambie_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/MainNorth_Hastings.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM034/MainNorth_Hastings_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HastingsEast_Main.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM034/HastingsEast_Main_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/MainSouth_Hastings.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM034/MainSouth_Hastings_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HastingsWest_Main.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM034/HastingsWest_Main_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BeattyDunsmuirNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM036/BeattyDunsmuirNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BeattyDunsmuirEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM036/BeattyDunsmuirEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BeattyDunsmuirSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM036/BeattyDunsmuirSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BeattyDunsmuirWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM036/BeattyDunsmuirWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleNorth_Georgia.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM037/GranvilleNorth_Georgia_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GeorgiaEast_Granville.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM037/GeorgiaEast_Granville_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleSouth_Georgia.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM037/GranvilleSouth_Georgia_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GeorgiaWest_Granville.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM037/GeorgiaWest_Granville_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BeattyNorth_Georgia.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM038/BeattyNorth_Georgia_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GeorgiaEast_Beatty.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM038/GeorgiaEast_Beatty_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BeattySouth_Georgia.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM038/BeattySouth_Georgia_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GeorgiaWest_Beatty.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM038/GeorgiaWest_Beatty_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleNorth_Nelson_South.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM039/GranvilleNorth_Nelson_South_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/NelsonEast_Granville_South.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM039/NelsonEast_Granville_South_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/GranvilleSouth_Nelson_South.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM039/GranvilleSouth_Nelson_South_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/NelsonWest_Granville.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM039/NelsonWest_Granville_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbyNorth_Pacific.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM051/HornbyNorth_Pacific_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/PacificEast_Hornby.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM051/PacificEast_Hornby_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/HornbySouth_Pacific.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM051/HornbySouth_Pacific_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/PacificWest_Hornby.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM051/PacificWest_Hornby_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/Blanca10North.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM080/Blanca10North_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/Blanca10East.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM080/Blanca10East_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/Blanca10South.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM080/Blanca10South_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/Blanca10West.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM080/Blanca10West_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/ThurlowCanadaPlace_North.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM085/ThurlowCanadaPlace_North_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/ThurlowCanadaPlace_East.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM085/ThurlowCanadaPlace_East_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/ThurlowCanadaPlace_South.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM085/ThurlowCanadaPlace_South_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardBridgeMidSpanNorthNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM086/BurrardBridgeMidSpanNorthNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardBridgeMidspanSouthSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM086/BurrardBridgeMidspanSouthSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourNelsonNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM101/SeymourNelsonNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourNelsonEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM101/SeymourNelsonEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourNelsonSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM101/SeymourNelsonSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourNelsonWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM101/SeymourNelsonWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsCordovaWaterNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM132/RichardsCordovaWaterNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsCordovaWaterEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM132/RichardsCordovaWaterEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsCordovaWaterSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM132/RichardsCordovaWaterSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsCordovaWaterWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM132/RichardsCordovaWaterWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDunsmuirNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM137/RichardsDunsmuirNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDunsmuirEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM137/RichardsDunsmuirEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDunsmuirSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM137/RichardsDunsmuirSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDunsmuirWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM137/RichardsDunsmuirWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDrakeNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM154/RichardsDrakeNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDrakeEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM154/RichardsDrakeEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDrakeSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM154/RichardsDrakeSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsDrakeWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM154/RichardsDrakeWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsNelsonNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM172/RichardsNelsonNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsNelsonEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM172/RichardsNelsonEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsNelsonSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM172/RichardsNelsonSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsNelsonWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM172/RichardsNelsonWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsRobsonNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM175/RichardsRobsonNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsRobsonEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM175/RichardsRobsonEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsRobsonSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM175/RichardsRobsonSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/RichardsRobsonWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM175/RichardsRobsonWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourSmitheNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM177/SeymourSmitheNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourSmitheEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM177/SeymourSmitheEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourSmitheSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM177/SeymourSmitheSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/SeymourSmitheWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM177/SeymourSmitheWest_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardSmitheNorth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM183/BurrardSmitheNorth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardSmitheEast.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM183/BurrardSmitheEast_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardSmitheSouth.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM183/BurrardSmitheSouth_{last_modified}.jpg"
+
+[[cameras]]
+url = "https://trafficcams.vancouver.ca/cameraimages/BurrardSmitheWest.jpg"
+visit_interval_sec = 90
+filename_template = "webcams/TCM183/BurrardSmitheWest_{last_modified}.jpg"

@@ -1,0 +1,876 @@
+[[cameras]]
+mapid = "TCM014"
+name = "Chilco St and W Georgia St"
+url = "http://images.drivebc.ca/bchighwaycam/pub/html/www/19.html"
+geo_point_2d = [
+    49.2942590380806,
+    -123.136787449782,
+]
+geo_local_area = "West End"
+image_urls = [
+    "http://images.drivebc.ca/bchighwaycam/pub/cameras/19.jpg",
+]
+
+[[cameras]]
+mapid = "TCM015"
+name = "Stanley Park Causeway"
+url = "http://images.drivebc.ca/bchighwaycam/pub/html/www/17.html"
+geo_point_2d = [
+    49.2972589838826,
+    -123.136736007805,
+]
+geo_local_area = "GVRD"
+image_urls = [
+    "http://images.drivebc.ca/bchighwaycam/pub/cameras/17.jpg",
+]
+
+[[cameras]]
+mapid = "TCM016"
+name = "North End camera 1"
+url = "http://images.drivebc.ca/bchighwaycam/pub/html/www/18.html"
+geo_point_2d = [
+    49.324053,
+    -123.130653,
+]
+geo_local_area = "GVRD"
+image_urls = [
+    "http://images.drivebc.ca/bchighwaycam/pub/cameras/18.jpg",
+]
+
+[[cameras]]
+mapid = "TCM028"
+name = "Main St and Terminal Av"
+url = "https://trafficcams.vancouver.ca/mainTerminal.htm"
+geo_point_2d = [
+    49.2727762979223,
+    -123.100028035364,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/MainNorth_Terminal_Dome.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/TerminalEast_Main.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/MainSouth_Terminal.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/TerminalWest_Main.jpg",
+]
+
+[[cameras]]
+mapid = "TCM030"
+name = "Granville St and Dunsmuir St"
+url = "https://trafficcams.vancouver.ca/GranvilleDunsmuir.htm"
+geo_point_2d = [
+    49.2836239860524,
+    -123.116411709855,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleNorth_Dunsmuir.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/DunsmuirEast_Granville.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleSouth_Dunsmuir.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/DunsmuirWest_Granville.jpg",
+]
+
+[[cameras]]
+mapid = "TCM048"
+name = "Hornby St and Robson St"
+url = "https://trafficcams.vancouver.ca/HornbyRobson.htm"
+geo_point_2d = [
+    49.2826429,
+    -123.121791,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/HornbyNorth_Robson.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RobsonEast_Hornby.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbySouth_Robson.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RobsonWest_Hornby.jpg",
+]
+
+[[cameras]]
+mapid = "TCM060"
+name = "Bute St and Davie St"
+url = "https://trafficcams.vancouver.ca/buteDavie.htm"
+geo_point_2d = [
+    49.281777,
+    -123.133382,
+]
+geo_local_area = "West End"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/ButeNorthDavie.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/DavieEastBute.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/ButeSouthDavie.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/DavieWestBute.jpg",
+]
+
+[[cameras]]
+mapid = "TCM064"
+name = "Thurlow St and Pacific St"
+url = "https://trafficcams.vancouver.ca/thurlowPacific.htm"
+geo_point_2d = [
+    49.278304,
+    -123.134406,
+]
+geo_local_area = "West End"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/ThurlowPacificN_North.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/ThurlowPacificE_East.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/ThurlowPacificN_South.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/ThurlowPacificE_West.jpg",
+]
+
+[[cameras]]
+mapid = "TCM076"
+name = "Beatty St and Smithe St"
+url = "https://trafficcams.vancouver.ca/beattySmithe.htm"
+geo_point_2d = [
+    49.276527,
+    -123.11558,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/BeattyNorthSmithe.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SmitheEastBeatty.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BeattySouthSmithe.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SmitheWestBeatty.jpg",
+]
+
+[[cameras]]
+mapid = "TCM109"
+name = "Howe St and Pacific St"
+url = "https://trafficcams.vancouver.ca/howePacific.htm"
+geo_point_2d = [
+    49.275674,
+    -123.13039,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/HowePacificNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HowePacificEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HowePacificSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HowePacificWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM131"
+name = "Richards St and W Hastings St"
+url = "https://trafficcams.vancouver.ca/richardsHastings.htm"
+geo_point_2d = [
+    49.28404,
+    -123.111904,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsHastingsNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsHastingsEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsHastingsSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsHastingsWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM138"
+name = "Seymour St and Dunsmuir St"
+url = "https://trafficcams.vancouver.ca/seymourDunsmuir.htm"
+geo_point_2d = [
+    49.282986,
+    -123.115421,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourDunsmuirNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourDunsmuirEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourDunsmuirSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourDunsmuirWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM143"
+name = "Hornby St and Nelson St"
+url = "https://trafficcams.vancouver.ca/hornbyNelson.htm"
+geo_point_2d = [
+    49.2805,
+    -123.124976,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/HornbyNelsonNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbyNelsonEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbyNelsonSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbyNelsonWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM167"
+name = "Denman St and Beach Av"
+url = "https://trafficcams.vancouver.ca/denmanBeach.htm"
+geo_point_2d = [
+    49.28688,
+    -123.142376,
+]
+geo_local_area = "West End"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/DenmanBeachEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/DenmanBeachWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM171"
+name = "Howe St and Drake St"
+url = "https://trafficcams.vancouver.ca/howeDrake.htm"
+geo_point_2d = [
+    49.276755,
+    -123.128859,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/HoweDrakeNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HoweDrakeEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HoweDrakeSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HoweDrakeWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM174"
+name = "Richards St and Helmcken St"
+url = "https://trafficcams.vancouver.ca/richardsHelmcken.htm"
+geo_point_2d = [
+    49.276939,
+    -123.122658,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsHelmckenNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsHelmckenEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsHelmckenSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsHelmckenWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM179"
+name = "Richards St and Smithe St"
+url = "https://trafficcams.vancouver.ca/richardsSmithe.htm"
+geo_point_2d = [
+    49.279046,
+    -123.119473,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsSmitheNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsSmitheEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsSmitheSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsSmitheWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM180"
+name = "Richards St and Pacific St"
+url = "https://trafficcams.vancouver.ca/richardsPacific.htm"
+geo_point_2d = [
+    49.27374,
+    -123.127496,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsPacificNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsPacificEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsPacificSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsPacificWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM186"
+name = "Seymour St and W Georgia St"
+url = "https://trafficcams.vancouver.ca/seymourGeorgia.htm"
+geo_point_2d = [
+    49.281859,
+    -123.117144,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourGeorgiaNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourGeorgiaEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourGeorgiaSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourGeorgiaWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM190"
+name = "Burrard St and Nelson St"
+url = "https://trafficcams.vancouver.ca/burrardnelson.htm"
+geo_point_2d = [
+    49.281193,
+    -123.126012,
+]
+geo_local_area = "West End"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardNelsonNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardNelsonEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardNelsonSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardNelsonWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM003"
+name = "Cardero St and W Pender St and W Georgia"
+url = "https://trafficcams.vancouver.ca/georgia3.htm"
+geo_point_2d = [
+    49.290510806346,
+    -123.130520302544,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/georgiaE.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/georgiaW.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/PenderEast.jpg",
+]
+
+[[cameras]]
+mapid = "TCM049"
+name = "Howe St and W Georgia St"
+url = "https://trafficcams.vancouver.ca/howeGeorgia.htm"
+geo_point_2d = [
+    49.2831269,
+    -123.119088,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/HoweNorthGeorgia.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GeorgiaEastHowe.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HoweSouthGeorgia.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GeorgiaWestHowe.jpg",
+]
+
+[[cameras]]
+mapid = "TCM096"
+name = "Burrard St and Drake St"
+url = "https://trafficcams.vancouver.ca/burrardDrake.htm"
+geo_point_2d = [
+    49.278025,
+    -123.130775,
+]
+geo_local_area = "West End"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardDrakeNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardDrakeEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardDrakeSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardDrakeWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM151"
+name = "Granville St and Smithe St"
+url = "https://trafficcams.vancouver.ca/granvilleSmithe.htm"
+geo_point_2d = [
+    49.280312,
+    -123.121422,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleSmitheNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleSmitheEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleSmitheSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleSmitheWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM176"
+name = "Seymour St and Robson St"
+url = "https://trafficcams.vancouver.ca/seymourRobson.htm"
+geo_point_2d = [
+    49.280728,
+    -123.118852,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourRobsonNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourRobsonEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourRobsonSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourRobsonWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM182"
+name = "Denman St and Davie St"
+url = "https://trafficcams.vancouver.ca/denmanDavie.htm"
+geo_point_2d = [
+    49.287258,
+    -123.141824,
+]
+geo_local_area = "West End"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/DenmanDavieNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/DenmanDavieEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/DenmanDavieSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/DenmanDavieWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM185"
+name = "Hornby St and Drake St"
+url = "https://trafficcams.vancouver.ca/hornbyDrake.htm"
+geo_point_2d = [
+    49.277384,
+    -123.129791,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/HornbyDrakeNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbyDrakeEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbyDrakeSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbyDrakeWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM031"
+name = "Burrard St and Canada Place"
+url = "https://trafficcams.vancouver.ca/BurrardCanadaPlace.htm"
+geo_point_2d = [
+    49.2881431972814,
+    -123.115479083554,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM043"
+name = "Hornby St and W Georgia St"
+url = "https://trafficcams.vancouver.ca/hornbyGeorgia.htm"
+geo_point_2d = [
+    49.2837645081745,
+    -123.120082749606,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/HornbyNorth_Georgia.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GeorgiaEast_Hornby.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbySouth_Georgia.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GeorgiaWest_Hornby.jpg",
+]
+
+[[cameras]]
+mapid = "TCM050"
+name = "Granville St and Robson St"
+url = "https://trafficcams.vancouver.ca/granvilleRobson.htm"
+geo_point_2d = [
+    49.2813697,
+    -123.119829,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleNorth_Robson.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RobsonEast_Granville.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleSouth_Robson.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RobsonWest_Granville.jpg",
+]
+
+[[cameras]]
+mapid = "TCM136"
+name = "Richards St and W Pender St"
+url = "https://trafficcams.vancouver.ca/richardsPender.htm"
+geo_point_2d = [
+    49.283391,
+    -123.112886,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsPenderNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsPenderEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsPenderSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsPenderWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM173"
+name = "Richards St and Davie St"
+url = "https://trafficcams.vancouver.ca/richardsDavie.htm"
+geo_point_2d = [
+    49.275885,
+    -123.124252,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDavieNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDavieEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDavieSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDavieWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM178"
+name = "Richards St and W Georgia St"
+url = "https://trafficcams.vancouver.ca/richardsGeorgia.htm"
+geo_point_2d = [
+    49.28123,
+    -123.116174,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsGeorgiaNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsGeorgiaEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsGeorgiaSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsGeorgiaWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM184"
+name = "Hornby St and Smithe St"
+url = "https://trafficcams.vancouver.ca/hornbySmithe.htm"
+geo_point_2d = [
+    49.281586,
+    -123.123398,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/HornbySmitheNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbySmitheEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbySmitheSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbySmitheWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM002"
+name = "Denman St and W Georgia St"
+url = "https://trafficcams.vancouver.ca/denman3.htm"
+geo_point_2d = [
+    49.2925940002885,
+    -123.133742210751,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/GeorgiaDenmanEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GeorgiaDenmanWest.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/DenmanGeorgiaSouth.jpg",
+]
+
+[[cameras]]
+mapid = "TCM012"
+name = "Burrard St and Pacific St"
+url = "https://trafficcams.vancouver.ca/BurrardPacific4.htm"
+geo_point_2d = [
+    49.2769754719523,
+    -123.132359942237,
+]
+geo_local_area = "West End"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardPacificNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardPacificEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardBridgeSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardPacificWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM017"
+name = "North End camera 2"
+url = "http://images.drivebc.ca/bchighwaycam/pub/html/www/20.html"
+geo_point_2d = [
+    49.324891,
+    -123.129968,
+]
+geo_local_area = "GVRD"
+image_urls = [
+    "http://images.drivebc.ca/bchighwaycam/pub/cameras/20.jpg",
+]
+
+[[cameras]]
+mapid = "TCM018"
+name = "Expo Blvd and Smithe St"
+url = "https://trafficcams.vancouver.ca/expoSmithe.htm"
+geo_point_2d = [
+    49.2758069601355,
+    -123.114727137422,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/Expoblvdnorth_smithe.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SmitheEast_ExpoBlvd.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/Expoblvdsouth_smithe.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SmitheWest_ExpoBlvd.jpg",
+]
+
+[[cameras]]
+mapid = "TCM019"
+name = "Cambie St and Nelson St"
+url = "https://trafficcams.vancouver.ca/cambieNelson.htm"
+geo_point_2d = [
+    49.2761048691871,
+    -123.118130911495,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/Cambienorth_nelson.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/Nelsoneast_cambie.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/Cambiesouth_nelson.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/Nelsonwest_cambie.jpg",
+]
+
+[[cameras]]
+mapid = "TCM034"
+name = "Main St and E Hastings St"
+url = "https://trafficcams.vancouver.ca/MainHastings.htm"
+geo_point_2d = [
+    49.2813356595642,
+    -123.099648798315,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/MainNorth_Hastings.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HastingsEast_Main.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/MainSouth_Hastings.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HastingsWest_Main.jpg",
+]
+
+[[cameras]]
+mapid = "TCM036"
+name = "Beatty St and Dunsmuir St"
+url = "https://trafficcams.vancouver.ca/BeattyDunsmuir.htm"
+geo_point_2d = [
+    49.2798513,
+    -123.110542,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/BeattyDunsmuirNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BeattyDunsmuirEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BeattyDunsmuirSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BeattyDunsmuirWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM037"
+name = "Granville St and W Georgia St"
+url = "https://trafficcams.vancouver.ca/granvilleGeorgia.htm"
+geo_point_2d = [
+    49.2824942805362,
+    -123.11812055027,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleNorth_Georgia.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GeorgiaEast_Granville.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleSouth_Georgia.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GeorgiaWest_Granville.jpg",
+]
+
+[[cameras]]
+mapid = "TCM038"
+name = "Beatty St and W Georgia St"
+url = "https://trafficcams.vancouver.ca/beattyGeorgia.htm"
+geo_point_2d = [
+    49.2787098421077,
+    -123.112273646781,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/BeattyNorth_Georgia.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GeorgiaEast_Beatty.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BeattySouth_Georgia.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GeorgiaWest_Beatty.jpg",
+]
+
+[[cameras]]
+mapid = "TCM039"
+name = "Granville St and Nelson St"
+url = "https://trafficcams.vancouver.ca/granvilleNelson.htm"
+geo_point_2d = [
+    49.2792581951786,
+    -123.123013825971,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleNorth_Nelson_South.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/NelsonEast_Granville_South.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/GranvilleSouth_Nelson_South.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/NelsonWest_Granville.jpg",
+]
+
+[[cameras]]
+mapid = "TCM051"
+name = "Hornby St and Pacific St"
+url = "https://trafficcams.vancouver.ca/hornbyPacific.htm"
+geo_point_2d = [
+    49.2763164,
+    -123.131337,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/HornbyNorth_Pacific.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/PacificEast_Hornby.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/HornbySouth_Pacific.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/PacificWest_Hornby.jpg",
+]
+
+[[cameras]]
+mapid = "TCM080"
+name = "Blanca St and W 10th Av"
+url = "https://trafficcams.vancouver.ca/blanca10.htm"
+geo_point_2d = [
+    49.263925,
+    -123.215212,
+]
+geo_local_area = "GVRD"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/Blanca10North.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/Blanca10East.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/Blanca10South.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/Blanca10West.jpg",
+]
+
+[[cameras]]
+mapid = "TCM085"
+name = "Thurlow St and Canada Place"
+url = "https://trafficcams.vancouver.ca/ThurlowCanadaPlace.htm"
+geo_point_2d = [
+    49.288853,
+    -123.118271,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/ThurlowCanadaPlace_North.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/ThurlowCanadaPlace_East.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/ThurlowCanadaPlace_South.jpg",
+]
+
+[[cameras]]
+mapid = "TCM086"
+name = "Burrard St Bridge"
+url = "https://trafficcams.vancouver.ca/BurrardBridge.htm"
+geo_point_2d = [
+    49.275566,
+    -123.136732,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardBridgeMidSpanNorthNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardBridgeMidspanSouthSouth.jpg",
+]
+
+[[cameras]]
+mapid = "TCM101"
+name = "Seymour St and Nelson St"
+url = "https://trafficcams.vancouver.ca/seymourNelson.htm"
+geo_point_2d = [
+    49.278617,
+    -123.122022,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourNelsonNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourNelsonEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourNelsonSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourNelsonWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM132"
+name = "Richards St and W Cordova St / Water St"
+url = "https://trafficcams.vancouver.ca/richardsCordovaWater.htm"
+geo_point_2d = [
+    49.284679,
+    -123.110954,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsCordovaWaterNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsCordovaWaterEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsCordovaWaterSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsCordovaWaterWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM137"
+name = "Richards St and Dunsmuir St"
+url = "https://trafficcams.vancouver.ca/richardsDunsmuir.htm"
+geo_point_2d = [
+    49.282358,
+    -123.11445,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDunsmuirNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDunsmuirEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDunsmuirSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDunsmuirWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM154"
+name = "Richards St and Drake St"
+url = "https://trafficcams.vancouver.ca/richardsDrake.htm"
+geo_point_2d = [
+    49.274826,
+    -123.125831,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDrakeNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDrakeEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDrakeSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsDrakeWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM172"
+name = "Richards St and Nelson St"
+url = "https://trafficcams.vancouver.ca/richardsNelson.htm"
+geo_point_2d = [
+    49.277993,
+    -123.121066,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsNelsonNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsNelsonEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsNelsonSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsNelsonWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM175"
+name = "Richards St and Robson St"
+url = "https://trafficcams.vancouver.ca/richardsRobson.htm"
+geo_point_2d = [
+    49.2801,
+    -123.117882,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsRobsonNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsRobsonEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsRobsonSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/RichardsRobsonWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM177"
+name = "Seymour St and Smithe St"
+url = "https://trafficcams.vancouver.ca/seymourSmithe.htm"
+geo_point_2d = [
+    49.279674,
+    -123.120444,
+]
+geo_local_area = "Downtown"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourSmitheNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourSmitheEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourSmitheSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/SeymourSmitheWest.jpg",
+]
+
+[[cameras]]
+mapid = "TCM183"
+name = "Burrard St and Smithe St"
+url = "https://trafficcams.vancouver.ca/burrardSmithe.htm"
+geo_point_2d = [
+    49.282246,
+    -123.124419,
+]
+geo_local_area = "West End"
+image_urls = [
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardSmitheNorth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardSmitheEast.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardSmitheSouth.jpg",
+    "https://trafficcams.vancouver.ca/cameraimages/BurrardSmitheWest.jpg",
+]

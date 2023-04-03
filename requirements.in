@@ -1,0 +1,14 @@
+aiobotocore
+attrs
+BeautifulSoup4
+black
+cattrs
+httpx[http2]
+isort
+structlog
+tomli-w
+toolz
+trio
+trio-asyncio
+types-aiobotocore[essential]
+typer
